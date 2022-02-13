@@ -1,4 +1,4 @@
-👋 Hi, I’m [@khawajaumarfarooq](https://github.com/khawajaumarfarooq)
+👋 Hi, I’m [@UmarFKhawaja](https://github.com/umarfkhawaja)
 
 👀 I’m interested in code-generation techniques, and messaging platforms
 
@@ -9,6 +9,6 @@
 📫 I can be reached via [Twitter](https://twitter.com/UmarFKhawaja) or [Telegram](https://t.me/UmarFKhawaja)
 
 <!---
-khawajaumarfarooq/khawajaumarfarooq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UmarFKhawaja/UmarFKhawaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
